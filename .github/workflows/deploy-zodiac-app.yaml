@@ -7,7 +7,7 @@ env:
 #  push:
 #    paths:
 #    - Zodiac.Generator/**
-
+ 
 on: [workflow_dispatch]
 
 jobs:
